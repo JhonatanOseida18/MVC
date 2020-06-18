@@ -19,7 +19,4 @@
         </div>
     </section>
 
-    <footer align="center" id="PIE">
-        <p> Jhonatan Oseida &copy; 2020 </p>
-    </footer>
     {include file="Cabeceras/footer.tpl"}
